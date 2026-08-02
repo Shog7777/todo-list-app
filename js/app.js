@@ -1,8 +1,7 @@
-/* ============================================================
-   Enterprise Task Manager (ETM)
-   Kanban-style to-do app: CRUD, persistent storage, search,
-   live counters, drag-and-drop between statuses.
-   ============================================================ */
+/* Todo App
+   HTML, CSS, JavaScript
+   Features: Add, Edit, Delete, Search, Local Storage
+*/
 
 const STORAGE_KEY = 'etm.tasks.v1';
 const SEQ_KEY = 'etm.sequence.v1';
